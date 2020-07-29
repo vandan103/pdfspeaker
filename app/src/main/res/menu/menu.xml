@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/open"
+        android:title="Open Pdf" />
+    <item android:id="@+id/bookmark"
+        android:title="Bookmark" />
+    <item android:id="@+id/bookmarklist"
+        android:title="Bookmark List" />
+    <item android:id="@+id/jump"
+        android:title="Go to the page" />
+    <item android:id="@+id/About_us"
+        android:title="About US" />
+</menu>
